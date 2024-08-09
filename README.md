@@ -2,42 +2,6 @@
 
 EcoTravel é uma plataforma de turismo que visa oferecer informações e opções sobre destinos ecológicos. O frontend do projeto é construído usando Vue.js e Bootstrap, proporcionando uma interface moderna e responsiva para usuários explorarem destinos e atividades.
 
-## Estrutura do Projeto
-
-eco-travel/
-│
-├── frontend/
-│ ├── public/
-│ │ ├── favicon.ico
-│ │ └── index.html
-│ │
-│ ├── src/
-│ │ ├── assets/
-│ │ │ ├── logo.png
-│ │ │ └── styles/
-│ │ │ ├── main.scss
-│ │ │ └── custom.css
-│ │ ├── components/
-│ │ │ ├── Banner.vue
-│ │ │ ├── DestinationCard.vue
-│ │ │ └── Navbar.vue
-│ │ ├── views/
-│ │ │ ├── HomePage.vue
-│ │ │ ├── LoginPage.vue
-│ │ │ ├── RegisterPage.vue
-│ │ │ └── ProfilePage.vue
-│ │ ├── router/
-│ │ │ └── index.js
-│ │ ├── store/
-│ │ │ └── index.js
-│ │ ├── App.vue
-│ │ ├── main.js
-│ │ └── bootstrap.js
-│ │
-│ └── package.json
-│
-└── README.md
-
 
 ## Dependências
 
