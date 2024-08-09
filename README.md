@@ -94,7 +94,7 @@ Para contribuir com o projeto, siga estas etapas:
 
 ## Vídeo demonstração
 
-[Assista ao vídeo aqui]([https://www.youtube.com/watch?v=exemplo](https://youtu.be/fEtz8TNKxWY))
+[Assista ao vídeo aqui](https://youtu.be/fEtz8TNKxWY)
 
 ## Licença
 
