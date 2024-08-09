@@ -92,6 +92,10 @@ Para contribuir com o projeto, siga estas etapas:
     git clone https://github.com/jhcxrrea/eco-travel-frontend.git
 ```
 
+## Vídeo demonstração
+
+[Assista ao vídeo aqui]([https://www.youtube.com/watch?v=exemplo](https://youtu.be/fEtz8TNKxWY))
+
 ## Licença
 
 O projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
