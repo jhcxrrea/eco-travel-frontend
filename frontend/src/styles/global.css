@@ -1,0 +1,102 @@
+/* Estilo global para garantir consistência */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+body {
+  background-color: #F8F9FA; /* Cinza Claro */
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+}
+
+a {
+  color: #8A9A5B; /* Verde Musgo */
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: #6C7A59; /* Tom mais escuro de verde para hover */
+
+}
+
+/* Estilo para os cards */
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #FFFFFF;
+  padding: 16px;
+  margin: 8px 0;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transform: scale(1.02);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+/* Estilo para botões */
+button {
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+button.btn-primary {
+  background-color: #8A9A5B;
+  color: #FFFFFF;
+}
+
+button.btn-primary:hover, button.btn-primary:focus {
+  background-color: #6C7A59;
+  transform: scale(1.02);
+  
+}
+
+/* Estilo para a Navbar */
+.navbar {
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 1rem;
+}
+
+.nav-link {
+  color: #8A9A5B;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover, .nav-link:focus {
+  color: #6C7A59;
+}
+
+/* Estilo para o rodapé */
+footer {
+  background-color: #8A9A5B;
+  color: #FFFFFF;
+  padding: 1rem;
+  text-align: center;
+}
+
+footer a {
+  color: #FFFFFF;
+}
+
+footer a:hover, footer a:focus {
+  color: #D3D3D3;
+}
